@@ -1,0 +1,29 @@
+body{
+  background-color: blue !important;
+}
+
+.container .colP{
+  min-height: 300px;
+  margin: 40px;
+}
+
+.container .colOne{
+  background-color: red;
+}
+
+.container .colTwo{
+  background-color: yellow;
+}
+
+h1{
+  color: greenyellow;
+  padding: 30px;
+}
+
+.col-2{
+  background-color: chartreuse;
+}
+
+.backgroundSet{
+  background-color: rgb(65, 109, 230);
+}
